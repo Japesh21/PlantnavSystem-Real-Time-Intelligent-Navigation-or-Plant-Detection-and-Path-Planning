@@ -1,0 +1,29 @@
+# Python
+
+**pycache**/
+*.pyc
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# YOLO runs
+
+runs/
+
+# Models
+
+*.pt
+
+# Dataset
+
+data/dataset/
+
+# VSCode
+
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+train: C:/Users/91939/OneDrive/Desktop/python/data/dataset/train/images
+val: C:/Users/91939/OneDrive/Desktop/python/data/dataset/val/images
+
+nc: 2
+names: ['aloevera', 'banana']
+
